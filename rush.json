@@ -385,8 +385,8 @@
       "projectFolder": "apps/site"
     },
     {
-      "packageName": "@diogo/components",
-      "projectFolder": "libs/components"
+      "packageName": "@diogo/design-system",
+      "projectFolder": "libs/design-system"
     }
     // {
     //   /**

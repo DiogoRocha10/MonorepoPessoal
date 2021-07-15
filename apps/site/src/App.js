@@ -1,5 +1,5 @@
 import "./App.css";
-import { Thing } from "@diogo/components";
+import { Thing } from "@diogo/design-system";
 
 function App() {
   return (
