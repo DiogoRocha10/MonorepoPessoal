@@ -382,11 +382,13 @@
   "projects": [
     {
       "packageName": "site",
-      "projectFolder": "apps/site"
+      "projectFolder": "apps/site",
+      "shouldPublish": true
     },
     {
       "packageName": "@diogo/design-system",
-      "projectFolder": "libs/design-system"
+      "projectFolder": "libs/design-system",
+      "shouldPublish": true
     }
     // {
     //   /**
